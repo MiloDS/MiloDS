@@ -28,5 +28,5 @@
 ### 🚀 Let's Connect!
 
 - 📧 Email: [alexvar603@gmail.com]
-- 💼 LinkedIn: [Alexander Vargas]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alexander-vargas-96863b261/))
+- 💼 LinkedIn: [Alexander Vargas](https://www.linkedin.com/in/alexander-vargas-96863b261/)
 
