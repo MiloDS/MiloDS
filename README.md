@@ -1,7 +1,14 @@
 ## Hi, I'm Alex ✋🧔📖
 I am a student in Software Development Technology at Universidad Pascual Bravo, with strong knowledge in C#, .NET, and Visual Studio. I have experience with SQL, SQL Server Management Studio, and SQLite, as well as skills in Node.js, HTML, CSS, and Git. I stand out for my adaptability, teamwork, and ability to teach.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMiloDSanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/MiloDS">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiloDS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiloDS&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
 <!--
 **MiloDS/MiloDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
